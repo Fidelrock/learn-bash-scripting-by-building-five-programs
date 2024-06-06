@@ -52,3 +52,4 @@ echo $QUESTION1
 echo --help
 man echo
 ./questionnaire.sh
+./questionnaire.sh
