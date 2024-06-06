@@ -142,3 +142,4 @@ help sleep
 man sleep
 sleep 3
 ./countdown.sh 3
+./countdown.sh 3
