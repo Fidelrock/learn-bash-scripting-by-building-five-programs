@@ -44,3 +44,5 @@ ls --color=auto -l
 QUESTION="What's your name?"
 QUESTION1="What's your name?"
 echo $QUESTION1
+echo $QUESTION1
+./questionnaire.sh
