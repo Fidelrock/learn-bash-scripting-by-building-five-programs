@@ -148,3 +148,4 @@ help
 help while
 ./countdown.sh
 ./countdown.sh 5
+touch bingo.sh
