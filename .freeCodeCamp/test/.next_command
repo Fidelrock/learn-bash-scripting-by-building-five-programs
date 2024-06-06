@@ -120,3 +120,6 @@ bad_command
 ls --color=auto
 ls --color=auto -y
 help test
+[[ 4 -le 5 ]]
+__vsc_prompt_cmd_original
+[[ -a countdown.sh ]]
