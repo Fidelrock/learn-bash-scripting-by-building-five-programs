@@ -71,3 +71,4 @@ man
 man --h
 man --help
 man if
+help if
