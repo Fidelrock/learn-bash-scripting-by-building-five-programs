@@ -32,3 +32,5 @@ __vsc_prompt_cmd_original
 which bash
 __vsc_prompt_cmd_original
 which bash
+bash questionnaire.sh
+./questionnaire.sh
